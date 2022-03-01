@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation, for restraint of killing, dressing, and eating of flesh in Lent or on fish-days appointed by the law to be observed</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02121</idno>
+            <idno type="STC">Wing C3422A</idno>
+            <idno type="STC">ESTC R228075</idno>
+            <idno type="EEBO-CITATION">53298994</idno>
+            <idno type="OCLC">ocm 53298994</idno>
+            <idno type="VID">179771</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02121)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179771)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2802:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation, for restraint of killing, dressing, and eating of flesh in Lent or on fish-days appointed by the law to be observed</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>3 sheets.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: royal seal with initials C R.</note>
+                  <note>Initial letter.</note>
+                  <note>Text in black letter.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meat industry and trade --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Lent --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:179771:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>By the King. A PROCLAMATION, FOR Reſtraint of Killing, Dreſsing and Eating of Fleſh in Lent, or on Fiſh-dayes appointed by the Law to be obſerved.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas divers good Laws and Statutes have heretofore with great care and providence been made and Enacted for the due obſervation of <hi>Lent,</hi> and other days appointed for Fiſh-days, as well for the ſparing and increaſe of Fleſh-Victuals, as for the maintenance of the Navy, and Shipping of this Realm, by the encouragement of Fiſhermen to go to the Seas for the taking of Fiſh; which Laws and Politique Conſtitutions have heretofore been quickned by ſundry Proclamations, and other Acts and Ordinances of State, in the times of Our Royal Predeceſſors, and by a Proclamation ſet forth by Vs the Twenty ninth of <hi>January</hi> laſt. And whereas notwithſtanding ſo many good Proviſions heretofore had and made in that kinde, all ſorts of people have for many years laſt paſt, taken upon them ſuch a liberty to kill, dreſs, and eat fleſh in the <hi>Lent</hi> ſeaſon, and on other days and times prohibited, as now it is become ſo inveterate, and evil, that it will require more then ordinary care to redreſs the ſame: We therefore much affecting the re<g ref="char:EOLhyphen"/>formation of ſo great and growing an evil, which is ſo great an enemy to the plenty of this Our King<g ref="char:EOLhyphen"/>dom, have thought fit thus timely (the better to take away all pretences of excuſe) to expreſs Our Self and Our Royal Commandment in this behalf; whereof We ſhall expect, and do require from all Our loving Subjects, that due notice be taken, and that a ſtrict conformity be yielded thereunto. And for a<g ref="char:EOLhyphen"/>voiding of inconveniences hereafter, Our will and pleaſure is, that the Lord Mayor of Our City of <hi>London,</hi> and the Iuſtices of Peace of Our City of <hi>Weſtminſter,</hi> and the Liberties thereof, ſhall hereaf<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:179771:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 56 -->
+               <pb n="2" facs="tcp:179771:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 57 -->
+yearly, every year before <hi>Lent,</hi> or at the beginning thereof, cauſe all Inholders, Keepers of ordinary Tables, Cooks, Butchers, Victuallers, Alehouſe-keepers and Taverners within the ſaid Cities and Liberties thereof, to appear before them, and ſhall take Recognizances, with two ſufficient Sureties of every of them <hi>(viz.)</hi> the Principal in Forty pounds, and their Sureties in Twenty pounds apiece to Our uſe, That the Butchers ſhall kill no fleſh in <hi>Lent,</hi> and that the other perſons before mentioned, ſhall not dreſs, nor ſuffer any fleſh to be eaten in their houſes in the <hi>Lent</hi> time, or at any time prohibited, contrary to Law. And to the end that Fiſhermen may imploy themſelves at Sea with better encouragement then heretofore, and that the Fiſhmongers may furniſh themſelves with ſuch ſtore from time to time hereaf<g ref="char:EOLhyphen"/>ter, as ſhall be expedient, as well for the proviſion of the City, as for ſelling the ſame at reaſonable rates, We will that they take notice of this Our Commandment, and conſtant reſolution for obſervance of <hi>Lent,</hi> and Fiſh-days, both now and hereafter, as by Law is required.</p>
+            <p>And furthermore, as We think it fit that every man ſhould be a rule of order and abſtinence in his own houſe, as well in reſpect of the publique, as of his private eaſe and benefit; ſo We ſtreightly Charge and Command all Inholders, Keepers of ordinary Tables, Poulterers, Victuallers, Cooks, Alehouſe-keep<g ref="char:EOLhyphen"/>ers, and Taverners, not to make any Supper for any perſon or perſons whatſoever upon Friday nights, either in <hi>Lent</hi> or out of <hi>Lent,</hi> nor ſuffer any meat to be then dreſſed, uttered, ſold, or eaten in their houſes, upon pain of ſuch puniſhment as is due to thoſe that ſhall contemn Our Royal Pleaſure and Command<g ref="char:EOLhyphen"/>ment, and as by due courſe of the Laws may be inflicted. And foraſmuch as upon further advice and conſideration had of this inconveniency, which too much liberty hath occaſioned, We conceive that the re<g ref="char:EOLhyphen"/>ſtraint of Killing and Dreſſing of Fleſh is no ſufficient remedy alone for theſe miſchiefs, unleſs there be better care alſo taken to ſuppreſs the unlawful and inordinate eating of Fleſh in the time of <hi>Lent,</hi> and on other days and times prohibited, wherewith Our Subjects have for ſeveral years paſt accuſtomed themſelves, rather for delicacy then for neceſſity: It is therefore Our Royal Will and Pleaſure, and accordingly We do hereby ſtreightly prohibit, and forbid all Our Subjects of what degree or quality ſoe<g ref="char:EOLhyphen"/>ver within this Realm, to eat any manner of Fleſh in the time of <hi>Lent,</hi> or on other days, now uſually obſerved as Fiſh-days, without a ſpecial Licence firſt obtained from the Biſhop of the Dioceſs, or ſuch other as by the Law have power to give Licence in that behalf, according to Our Laws in that caſe provided, which We Will and Command ſhall be ſparingly granted. And as theſe Our Orders are to be executed in Our Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and the places near to the ſame: ſo it is Our expreſs Pleaſure and Commandment, that Our Iuſtices of Peace in all Shires within their Rule, and all other Mayors, Bayliffs, and chief Officers in Towns Corporate, or in any Liberties within their Precincts, ſhall cauſe the ſame to be obſerved and performed in like manner; further Charging and Commanding the Lord Mayor of Our City of <hi>London,</hi> the Iuſti<g ref="char:EOLhyphen"/>ces of Aſſize in their ſeveral Circuits, the Mayors and chief Officers of all other Cities, and Towns Corporate, Iuſtices of Peace, Lords of Liberties, and all other Officers and Miniſters within the ſeveral Counties of this Our Realm, that they and every of them fully obey this Our Pleaſure, and cauſe the ſame to be obeyed and executed by others, as they will anſwer the contrary at their utmoſt perils. And for the due execution of the premiſes in all other the Counties of this Our Realm, as well as in Our Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> We do hereby ſtreightly Charge and Command all Our Iuſtices of Peace within the ſame Counties, as well within Liberties as without, that yearly, and every year hereaf<g ref="char:EOLhyphen"/>ter before <hi>Lent,</hi> they cauſe to come and appear before them, all keepers of ordinary Tables, Inholders, Poulterers, Cooks, Taverners, Alehouſe-keepers, Butchers, and other Victuallers whatſoever, and to require and take of them to Our uſe ſeveral Recognizances, with Sureties for the obſervation of the pre<g ref="char:EOLhyphen"/>miſes; <hi>(viz.)</hi> the Principals in Ten pounds, and their two Sureties in Five pounds apiece. And if they ſhall refuſe or neglect to enter into ſuch Recognizances, then the ſaid Iuſtices ſhall ſuppreſs ſuch perſons ſo refu<g ref="char:EOLhyphen"/>ſing
+<pb facs="tcp:179771:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 58 -->
+               <pb facs="tcp:179771:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 59 -->from Victualling any more, and ſhall alſo cauſe them forthwith to become bound by Recognizance with Sureties to Our uſe: <hi>(viz.)</hi> The Principals in Twenty pounds, and their two Sureties in Ten pounds apiece, not to Victual, or ſell Beer, or Ale from henceforth; which if they ſhall refuſe to do, then the ſaid Iu<g ref="char:EOLhyphen"/>ſtices to commit to Priſon all ſuch perſons ſo refuſing to enter into ſuch Recognizances, until they ſhall ſub<g ref="char:EOLhyphen"/>mit themſelves and become bound as aforeſaid. And further all ſuch Keepers of ordinary Tables, Inhold<g ref="char:EOLhyphen"/>ers, Cooks, Taverners, Alehouſe-keepers, Butchers, and other Victuallers as ſhall not appear before the ſaid Iuſtices as aforeſaid, That they may immediately ſend forth their Warrants, or grant Proceſſe againſt them, and every of them ſo making default, to appear and anſwer their contempt at the next general Seſſions of the Peace. And further for the more due puniſhment of Inholders, Keepers of ordinary Tables, Poulterers, Cooks, Butchers, Victuallers, Alehouſe-keepers, Taverners, and ſuch like, who ſhall forfeit their Recognizances by Killing and Dreſsing of Fleſh, or ſuffering it to be eaten in their houſes, in the Lent-time, and other Fiſh-dayes; and to the end that the ſame may be as well taken in due form of Law, as duely certified into Our Exchequer; We do will and require all Iuſtices of Peace, as well within Li<g ref="char:EOLhyphen"/>berties as without, that at ſuch times as they ſhall meet within their ſeveral Diviſions for the taking of ſuch Recognizances, that they give notice to the Clerk of the Peace or their Deputies, whom We do here<g ref="char:EOLhyphen"/>by appoint to take the ſaid Recognizances, to attend them for that purpoſe, of whom We Will and require a ſtrict account, for the legal taking and returning of the ſame Recognizances into Our ſaid Exchequer. And becauſe theſe directions are for the better Obſervation of Order, and due keeping of the Lent, accord<g ref="char:EOLhyphen"/>ing to Our Lawes, which Our Miniſters and Officers are to ſee executed of Office, without making the ſame grievous unto Our people, by taking of exceſſive Fees, for their entring into Recognizances to ob<g ref="char:EOLhyphen"/>ſerve theſe Orders; We therefore ſtreightly Charge and Command, That no Town-Clerk, Clerk of the Peace, or other Officer ſhall or do preſume to demand, or take any Fees or reward above the ſumme of Twelve pence, although more hath been heretofore limited to be taken by the Town-Clerks, and Clerks of the Peace of the ſeveral Counties, for taking and certifying any ſuch Recognizances, nor ſhall give any Fee or reward for returning the ſame into Our Exchequer. And laſtly for that the Fiſhmongers (upon the obſervation of the aforeſaid Orders) may perhaps take occaſion thereby to inhannce the prices as well of Freſh, as Sea-fiſh); We do therefore hereby further Charge and Command all Fiſhmongers whatſoever, That they ſell and utter their Fiſh at moderate and uſual rates and prices. And that all Iuſtices of Peace, Mayors, Bayliffs, and other Officers, as well within Liberties as without, to whom it ſhall appertain, ſhall from time to time take ſuch Order with the ſaid Fiſhmongers, that Our Subjects be not grieved by any ſuch inhauncement, or in<g ref="char:EOLhyphen"/>creaſe of prices upon Fiſh, upon pain of Our high diſpleaſure, and ſuch further puniſhment as may be in<g ref="char:EOLhyphen"/>flicted upon them by Our Lawes.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall,</hi>
+                  <date>this Eleventh day of <hi>November,</hi> 1661. in the Thirteenth Year of Our Reign.</date>
+               </dateline>
+               <lb/>
+GOD SA<g ref="char:V">Ʋ</g>E THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the KING'S moſt Excellent Majeſty, 1661. At the KING'S Printing-Houſe in <hi>Black-Friers.</hi>
+            </p>
+            <pb facs="tcp:179771:6"/>
+            <!-- PDF PAGE 60 -->
+         </div>
+      </back>
+   </text>
+</TEI>
